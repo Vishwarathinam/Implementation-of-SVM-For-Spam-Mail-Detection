@@ -48,10 +48,19 @@ accuracy
 ```
 
 ## Output:
+data.head():
 ![Data.head()](n1.png)
+
+data.info:
 ![Data.info()](n2.png)
+
+data.isnull():
 ![Data.isnull().sum()](n3.png)
+
+Y_Pred:
 ![Y_Pred](n4.png)
+
+Accuracy:
 ![Accuracy](n5.png)
 
 
